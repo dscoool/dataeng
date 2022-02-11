@@ -52,13 +52,16 @@
 11. 주차별 수업 계획(필수):
 
 ##1차시 - 강의소개 / 강사소개
+<p>
 SQL 및 데이터베이스 소개
 강의소개 / 강의자료 배부
 
 ##2차시 - 데이터베이스(SQL) 환경설정
+ <p>
 수업소프트웨어 환경설정 (MySQL WorkBench) [Mac / Windows]
 
 ##3차시 - DB 테이블 만들어 보기
+<p>
 SQL QUERY: TABLE 생성, DATA INSERT, DELETE
 
 ##4차시 - DB에서 원하는 데이터 검색하기(1)
