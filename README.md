@@ -34,6 +34,7 @@
 
 9. 교재(선택):
 혼자 공부하는 SQL, 우재남, 한빛미디어, ISBN 979-11-6224-473-9
+구매링크: https://www.hanbit.co.kr/store/books/look.php?p_code=B6846155853
 
 10. 수업규정 또는 안내사항(선택):
 
