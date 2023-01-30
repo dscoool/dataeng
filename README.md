@@ -56,7 +56,7 @@ SQL QUERY: TABLE 생성, DATA INSERT, DELETE
 
 ##3차시 -  DB에서 원하는 데이터 검색하기(1)
 <p>
-SQL QUERY: SELECT문 실습
+SQL QUERY: SELECT문 실습 (00:23) - https://tv.naver.com/v/25936756
 
 ##4차시 - 공공데이터의 종류 및 활용, 엑셀 데이터 IMPORT / EXPORT
 <p>
@@ -65,12 +65,11 @@ SQL QUERY: SQL로 엑셀(.xls .csv) 데이터 IMPORT  실습
 
 ##5차시 - DB에서 원하는 데이터 검색하기(2)
 <p>
-SQL QUERY: Group By, Order By, Join, Subquery문 실습
+SQL QUERY: Group By, Order By, Join, Subquery문 실습 (1:10) - https://tv.naver.com/v/31561581
 
 ##6차시 - 서버에서 Mysql 사용하기
 <p>
-클라우드 DB
-Cloud DB 실습
+클라우드 DB 실습(00:22) 
 
 ##7차시 - 중간평가
 <p>
