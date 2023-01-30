@@ -80,33 +80,35 @@ Cloud DB 실습
 <p>
 SQL 쿼리문 실습 
 
-##9차시 - MySQL (4)
+##9차시 - 데이터시각화
+<p>
+MySQL과 Tableau 맛보기 
+
+##10차시 - MySQL (4)
 <p>
 SQL 쿼리문 실습 
 
-##10차시 - MySQL (5)
+##11차시 - NoSQL과 Studio3T (1)
 <p>
-SQL 쿼리문 실습 
+NoSQL이란? JSON, XML
+MongoDB, Studio3T 설치 및 환경설정
+JSON 파일 가져오기(IMPORT) / 내보내기(EXPORT)
 
-##11차시 - NoSQL(1)
+##12차시 -  NoSQL과 Studio3T (2)
 <p>
-NoSQL과 Studio3T
+Drag & Drop으로 데이터 검색하기!! (Visual Query Builder)
+SQL -> MongoDB로 데이터 이동하기 (DB마이그레이션)
+Studio3T에서 SQL 사용하기
 
-##12차시 -  NoSQL(2)
+##13차시 - 데이터3법과 윤리
 <p>
-NoSQL과 Studio3T
 
-##13차시 - NoSQL(3)
+##14차시 - NoSQL과 Studio3T (3)
 <p>
-NoSQL과 Studio3T
-
-##14차시 - NoSQL(4)
-<p>
-NoSQL과 Studio3T
 
 ##15차시 - 종강
 <p>
 기말고사
 강의평가
 
- ** Node.js MySQL 연동 / Python - MySQL 연동 (stack에 따라 온라인 강의 제공)
+ ** 보충 - Node.js MySQL 연동 / Python - MySQL 연동
