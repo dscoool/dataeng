@@ -49,8 +49,10 @@
 <p>
 SQL 및 데이터베이스 소개
 강의소개 / 강의자료 배부
-수업소프트웨어 환경설정 (MySQL WorkBench) [Mac / Windows]
+수업소프트웨어 환경설정 (MySQL WorkBench) [Mac / Windows] (00:15) - https://tv.naver.com/v/29083725
 
+* 질의응답: 비대면 ZOOM / 슬랙(jaeminjjung@gmail.com) / 강의게시판 / 이메일
+ 
 ##2차시 - DB 테이블 만들어 보기
 SQL QUERY: TABLE 생성, DATA INSERT, DELETE
 
@@ -110,4 +112,6 @@ Studio3T에서 SQL 사용하기
 기말고사
 강의평가
 
- ** 보충 - Node.js MySQL 연동 / Python - MySQL 연동
+ ** 보충
+ React.js MySQL 연동(00:41)  - https://tv.naver.com/v/26583638
+ Python - MySQL 연동
