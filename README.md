@@ -109,3 +109,4 @@ NoSQL과 Studio3T
 기말고사
 강의평가
 
+ ** Node.js MySQL 연동 / Python - MySQL 연동 (stack에 따라 온라인 강의 제공)
